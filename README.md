@@ -22,6 +22,7 @@ kvm 透传、直通步骤
 ![kvm_GPU](./imgs/kvm_GPU.jpg)
 
 ## 详细步骤与操作流程
-目前kvm GPU透传配置的中文资料很少，其中坑也很多，我费了不少时间摸索，最终nvidia显卡透传成功。
-[详细步骤与操作流程](https://mianbaoduo.com/o/bread/ZJiTk5g=)
-码字不易，请多多支持，谢谢❥(^_-)。
+目前kvm GPU透传配置的中文资料很少，其中坑也很多，我费了不少时间摸索，最终nvidia显卡透传成功。码字不易，请多多支持，谢谢❥(^_-)。
+
+详细步骤与操作流程：https://mianbaoduo.com/o/bread/ZJiTk5g=
+
